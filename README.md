@@ -19,6 +19,20 @@ Este proyecto es una API REST desarrollada con Spring Boot que permite gestionar
 * Hibernate
 * MySQL
 * Maven
+  
+## ▶️ Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+git clone https://github.com/dumasalejandro8-bot/api-alumnos-springboot.git
+
+2. Abrir en IntelliJ o IDE preferido
+
+3. Configurar la base de datos en application.properties
+
+4. Ejecutar la aplicación
+
+La API estará disponible en:
+http://localhost:8080
 
 ## 🏗️ Arquitectura
 
